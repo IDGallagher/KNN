@@ -105,14 +105,6 @@ points.Dispose();
 result.Dispose();
 ```
 
-# Demo
-
-The demo folder contains 2 demos:
-
-- KnnApiDemo.cs, Illustrates various API usages from a basic to advanced level
-- KnnVisualizationDemo.cs: Illustrates a real scene where particles are colored based on their neighbourhood information. Shows how to dynamically rebuild your container and other advanced API usages
-
-
 ## Installation
 
 The project was made as a Unity Package. Just add the git URL to your package manifest and Unity should install it.
